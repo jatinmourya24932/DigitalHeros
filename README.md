@@ -3,11 +3,7 @@
 A modern, responsive one-page agency website built as part of the **Digital Heroes Web Development Internship Qualification Task**.
 
 ## 🚀 Live Demo
-
-Add your Vercel/Netlify link here.
-
-Example:
-https://northpeak-digital.vercel.app
+(https://digital-heros-beta.vercel.app/)
 
 ## ✨ Features
 
